@@ -25,9 +25,6 @@ Dentro do diretorio resources, deve estar as imagens do seu projeto Java.
 
 ![list_imgs](./src/main/resources/list_imgs.png)
 
-
-Lembrar de trocar o package para o caminho do resources
-
 ![package_path](./src/main/resources/package_path.png)
 
 # Resultado
